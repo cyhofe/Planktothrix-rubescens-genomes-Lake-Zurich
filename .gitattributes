@@ -1,0 +1,4 @@
+*.fna text eol=lf
+*.faa text eol=lf
+*.gbk text eol=lf
+*.md text eol=lf
