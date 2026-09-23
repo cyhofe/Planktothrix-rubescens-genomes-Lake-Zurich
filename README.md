@@ -1,6 +1,6 @@
 # *Planktothrix rubescens* genomes from Lake Zurich
 
-**Zenodo DOI:** pending
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22208404.svg)](https://doi.org/10.5281/zenodo.22208404)
 
 This repository contains genome assemblies and Prokka annotation outputs for eight cultured *Planktothrix rubescens* isolates from Lake Zurich. These files underlie the genome annotation statistics reported in:
 
@@ -15,7 +15,7 @@ The files in this repository were generated locally with Prokka v1.14.6 and unde
 ## Strains
 
 | Strain | ENA sample accession |
-|---|---|
+| --- | --- |
 | ZS_A7 | ERS30397717 |
 | ZS_3A4 | ERS30397710 |
 | ZS_3C4 | ERS30397712 |
@@ -52,9 +52,7 @@ The archived release on Zenodo is the version associated with the manuscript. La
 
 Please cite both the manuscript and the archived dataset:
 
-> Hofer C, Knapp D, Posch T, Andrei A-S, Pernthaler J. *Planktothrix rubescens* genomes from Lake Zurich. Zenodo. https://doi.org/DOI-PENDING
-
-The DOI and complete manuscript citation will be added after the Zenodo record and article are finalized.
+> Hofer C, Knapp D, Posch T, Andrei A-S, Pernthaler J. *Planktothrix rubescens* genomes from Lake Zurich. Zenodo. https://doi.org/10.5281/zenodo.22208404
 
 ## Contact
 
@@ -64,4 +62,4 @@ Email: cyrill.hofer@uzh.ch
 
 ## License
 
-A reuse license must be selected before the first public release. CC BY 4.0 is recommended for these annotation data, subject to institutional requirements.
+This dataset is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
